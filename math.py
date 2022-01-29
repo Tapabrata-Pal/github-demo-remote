@@ -6,7 +6,7 @@ def subtract(x,y):
     pass              # on master
 
 def multiply(x,y):
-    return x*y          # on Bug456
+    pass         # on Bug456
 
 def divide(x,y):
     if y==0:              #master
